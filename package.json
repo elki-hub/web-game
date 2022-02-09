@@ -1,5 +1,5 @@
 {
-  "name": "phaser_tut2",
+  "name": "phaser_asteroids_game",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -7,7 +7,7 @@
     "start": "node server.js",
     "dev": "nodemon server.js"
   },
-  "author": "Juris Jurgaitis",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
